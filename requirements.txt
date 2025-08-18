@@ -1,5 +1,5 @@
 Commit directly to main:
-streamlit==1.37.1
-pandas==2.2.2
-numpy==1.26.4
-matplotlib==3.8.4
+streamlit>=1.28.0,<1.38.0
+pandas>=1.5.0,<2.2.0
+numpy>=1.24.0,<1.27.0
+matplotlib>=3.6.0,<3.9.0
