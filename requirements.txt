@@ -1,1 +1,5 @@
 Commit directly to main:
+streamlit
+pandas
+numpy
+matplotlib
